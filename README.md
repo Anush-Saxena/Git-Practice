@@ -1,3 +1,3 @@
-This all is done by Anush using Git CLI.
-Happy to see.
-another alteration made here let's see.
+Hello everyone!
+Welcome to this repo where i will daily upload at least 1 solution of any LC problem.
+Thanks, for visiting.
