@@ -1,3 +1,4 @@
+import java.util.Arrays;
 // More optimized solution
 public class Prob_88 {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
@@ -14,9 +15,8 @@ public class Prob_88 {
         }
     }
 }
-
 // Brute Force approach.
-class Solution {
+class Solution2{
     public void merge(int[] nums1, int m, int[] nums2, int n) {
         for (int i=m; i<m+n; i++){
             nums1[i]=nums2[i-m];
